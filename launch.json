@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "adapter": "c:\\tools\\plink.exe",
+  "adapterArgs": "-ssh -pw ****** lbujara@172.21.4.14 -batch -T ~/vsdbg/vsdbg --interpreter=vscode",
+  "configurations": [
+    {
+      "name": ".NET Core Launch",
+      "type": "coreclr",
+      "cwd": "/mnt/c/Users/LukasBujara/source/repos/WslDebugSample/bin/Debug/netcoreapp3.1/ubuntu-x64",
+      "program": "WslDebugSample",
+      "request": "launch"
+    }
+  ]
+}

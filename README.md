@@ -1,6 +1,6 @@
 # WslDebugSample
 
-This is a sample project running differently on WSL machine vs using WSL Debuggin extension for VS.
+This is a sample project running differently on WSL machine vs using WSL Debugging extension for VS.
 
 # Running using [WSL 2 Plugin for Visual Studio](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.Dot-Net-Core-Debugging-With-Wsl2&ssr=false#overview)
 
